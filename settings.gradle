@@ -1,0 +1,6 @@
+rootProject.name = "DocumentViewer"
+include ':app'
+include ':image_viewer'
+include ':video_viewer'
+include ':abs_viewer'
+include ':sdk'
